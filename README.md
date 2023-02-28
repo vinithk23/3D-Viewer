@@ -1,6 +1,8 @@
 # Spritle 3D Viewer
 
-Spritle 3D Viewer (https://3dviewer.net) is a free and open source web solution to visualize and explore 3D models right in your browser. This repository contains the source code of the website and the library behind it.
+Spritle 3D Viewer is a free and open source web solution to visualize and explore 3D models right in your browser. This repository contains the source code of the website and the library behind it.
+
+[//]: # (&#40;https://3dviewer.net&#41;)
 
 ## Example
 
